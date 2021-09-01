@@ -8,9 +8,7 @@
 
 
 ### Languages and Tools:
-[![ReactJS](https://img.shields.io/badge/-
-
-ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/truelifedev/)](https://github.com/truelifedev/) 
+[![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/truelifedev/)](https://github.com/truelifedev/) 
 [![VueJS](https://img.shields.io/badge/VueJS-41B883??style=flat&logo=vue.js&logoColor=white&link=https://github.com/truelifedev/)](https://github.com/truelifedev/) 
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white&link=https://github.com/truelifedev/)](https://github.com/truelifedev/) 
 
