@@ -1,5 +1,5 @@
 ### About Me:
-- 😘 Hi, I’m @hlywangdev@
+<h2>- 😘 Hi, I’m @hlywangdev@</h2>
 - 👀 I’m passionate in Software Engineering & Ethereum World
 - 💫 I’m currently focusing on the front end side on smart contract development
 - 💞️ I am looking for new goals and another important opportunity for success.
