@@ -47,8 +47,8 @@
 
 --- 
 
-<h2> 
-  Contact me
+<h2 style="text-align:center"> 
+  Contact
   <br />
 <p align="center">
 <a href="https://t.me/topfly1228" rel="nofollow">
