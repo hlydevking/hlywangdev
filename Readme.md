@@ -47,7 +47,7 @@
 
 --- 
 
-<h2 style="text-align:center"> 
+<h2 text-align="center"> 
   Contact
   <br />
 <p align="center">
