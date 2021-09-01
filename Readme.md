@@ -1,11 +1,16 @@
 ### About Me:
-<h3>- 😘 Hi, I’m <strong>@hlywangdev@</strong></h3>
-<h3>- 💞️ I’m passionate in Software Engineering & Ethereum World</h3>
-<h3>- 💫 I’m currently focusing on the front end side on smart contract development</h3>
-<h3>- 👀 I am looking for new goals and another important opportunity for success.</h3>
+<h4>- 😘 Hi, I’m <strong>@hlywangdev@</strong></h4>
+<h4>- 💞️ I’m passionate in Software Engineering & Ethereum World</h4>
+<h4>- 💫 I’m currently focusing on the front end side on smart contract development</h4>
+<h4>- 👀 I am looking for new goals and another important opportunity for success.</h4>
+
+
+
 
 ### Languages and Tools:
-[![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/truelifedev/)](https://github.com/truelifedev/) 
+[![ReactJS](https://img.shields.io/badge/-
+
+ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/truelifedev/)](https://github.com/truelifedev/) 
 [![VueJS](https://img.shields.io/badge/VueJS-41B883??style=flat&logo=vue.js&logoColor=white&link=https://github.com/truelifedev/)](https://github.com/truelifedev/) 
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white&link=https://github.com/truelifedev/)](https://github.com/truelifedev/) 
 
