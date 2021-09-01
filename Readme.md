@@ -1,8 +1,8 @@
 ### About Me:
 - 😘 Hi, I’m @flywangdev@
 - 👀 I’m passionate in Software Engineering & Ethereum World
-- 💫 I’m currently focusing on the front end role
-- 💞️ I’m looking to collaborate on Smart Contract Development
+- 💫 I’m currently focusing on the front end side on smart contract development
+- 💞️ I am looking for new goals and another important opportunity for success.
 
 ### Languages and Tools:
 [![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/truelifedev/)](https://github.com/truelifedev/) 
