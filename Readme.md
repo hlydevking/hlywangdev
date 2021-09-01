@@ -58,7 +58,7 @@
 
 --- 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlywangdev&theme=white" /> 
-<img align="center" alt="hlywangdev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=msilucifer&show_icons=true&hide_border=true" /><br /><br />
+<img align="center" alt="hlywangdev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hlywangdev&show_icons=true&hide_border=true" /><br /><br />
 
 [github]: https://github.com/hlywangdev/
 
