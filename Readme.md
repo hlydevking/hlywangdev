@@ -59,8 +59,6 @@
 --- 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlywangdev&theme=white" /> 
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/8467ea724e22a8e0d08e56699d8f7b22373aa99d6bffa0da4c85c3cbb3b69bf8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d726973696e6773746172323031382673686f775f69636f6e733d74727565"><img src="https://camo.githubusercontent.com/8467ea724e22a8e0d08e56699d8f7b22373aa99d6bffa0da4c85c3cbb3b69bf8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d726973696e6773746172323031382673686f775f69636f6e733d74727565" alt="Anurag's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=hlywangdev&amp;show_icons=true" style="max-width:100%;"></a>
-</p>
 
 
 
