@@ -1,7 +1,7 @@
 ### About Me:
-- 😘 Hi, I’m @truelifedev@
+- 😘 Hi, I’m @flywangdev@
 - 👀 I’m passionate in Software Engineering & Ethereum World
-- 💫 I’m currently focusing on Smart Contract and learning Rust/Go
+- 💫 I’m currently focusing on the front end role
 - 💞️ I’m looking to collaborate on Smart Contract Development
 
 ### Languages and Tools:
