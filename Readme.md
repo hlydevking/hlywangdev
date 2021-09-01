@@ -1,8 +1,13 @@
 ### About Me:
-<h2>- 😘 Hi, I’m <strong>@hlywangdev@</strong></h2>
-<h2>- 💞️ I’m passionate in Software Engineering & Ethereum World</h2>
-<h2>- 💫 I’m currently focusing on the front end side on smart contract development</h2>
-<h2>- 👀 I am looking for new goals and another important opportunity for success.</h2>
+<h3>- 😘 Hi, I’m <strong>@hlywangdev@</strong></h3>
+<h3>- 💞️ I’m passionate in Software Engineering & Ethereum World</h3>
+<h3>- 💫 I’m currently focusing on the front end side on smart contract development</h3>
+<h3>- 👀 I am looking for new goals and another important opportunity for success.</h3>
+
+
+<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/8467ea724e22a8e0d08e56699d8f7b22373aa99d6bffa0da4c85c3cbb3b69bf8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d726973696e6773746172323031382673686f775f69636f6e733d74727565"><img src="https://camo.githubusercontent.com/8467ea724e22a8e0d08e56699d8f7b22373aa99d6bffa0da4c85c3cbb3b69bf8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d726973696e6773746172323031382673686f775f69636f6e733d74727565" alt="Anurag's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=risingstar2018&amp;show_icons=true" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/87c19b5518945364e2e3182996a31a455372054a4da0b5242f5ded545088ae07/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d726973696e6773746172323031382673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565"><img src="https://camo.githubusercontent.com/87c19b5518945364e2e3182996a31a455372054a4da0b5242f5ded545088ae07/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d726973696e6773746172323031382673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565" alt="Anurag's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=risingstar2018&amp;show_icons=true&amp;count_private=true" style="max-width:100%;"></a></p>
+
 
 ### Languages and Tools:
 [![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/truelifedev/)](https://github.com/truelifedev/) 
