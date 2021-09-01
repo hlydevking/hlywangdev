@@ -4,6 +4,7 @@
 <h4>- 💫 I’m currently focusing on the front end side on smart contract development</h4>
 <h4>- 👀 I am looking for new goals and another important opportunity for success.</h4>
 
+<br />
 
 <p align="center">
 <a href="https://t.me/topfly1228" rel="nofollow">
