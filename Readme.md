@@ -1,8 +1,8 @@
 ### About Me:
 <h2>- 😘 Hi, I’m <strong>@hlywangdev@</strong></h2>
-<h2>- 👀 I’m passionate in Software Engineering & Ethereum World</h2>
+<h2>- 💞️ I’m passionate in Software Engineering & Ethereum World</h2>
 <h2>- 💫 I’m currently focusing on the front end side on smart contract development</h2>
-<h2>- 💞️ I am looking for new goals and another important opportunity for success.</h2>
+<h2>- 👀 I am looking for new goals and another important opportunity for success.</h2>
 
 ### Languages and Tools:
 [![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/truelifedev/)](https://github.com/truelifedev/) 
